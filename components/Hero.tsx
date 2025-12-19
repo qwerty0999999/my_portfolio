@@ -57,7 +57,7 @@ const Hero = () => {
           />
 
           <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
-            Hi! I&apos;rijalul r, a Next.js Developer based in Croatia.
+            Hi! I&apos;rijalul firki, a Next.js Developer based in Croatia.
           </p>
 
           <a href="#about">
